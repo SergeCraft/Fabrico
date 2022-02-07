@@ -20,4 +20,4 @@ Key features:
 
 ## Download build
 Actual build for Windows x86_64 is available 
-<a href="https://drive.google.com/uc?export=download&id=1qbLiO_ZFmuQUPSj8Sj1URjGgnzyzsb5710TO1GibE-IrIhjyQbROmuVeWhFR7QlOq">here</a>
+<a href="https://drive.google.com/uc?export=download&id=10TO1GibE-IrIhjyQbROmuVeWhFR7QlOq">here</a>
