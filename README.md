@@ -15,9 +15,9 @@ Player can collect resources from output storage to his backpack (limited size) 
 drop them to input storage of factory if he is in storage interaction area.
 
 Key features:
-* There si three types of factories, but may be extended via config class
+* There is three types of factories, but may be extended via config class
 * Factories spawns at randomized location
-* Player controled via virtual joystic (mobile app blank)
+* Player controled via virtual joystick (mobile app blank)
 * Factories sending messages to scroll area with reason of its idle
 * All visuals made without external editors
 
