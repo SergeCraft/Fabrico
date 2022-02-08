@@ -5,7 +5,7 @@ This is a small mockup of hypercasual game, inspired by some test task specifica
 ## Decription
 A player (simple capsule with backpack) is a loader on works.
 His target is to produce some resources with factories. 
-Factory can recuire some resources to produce another resource for specified time.
+Factory can require some resources to produce another resource for specified time.
 Red factory produces red resource without required any resource;
 Yellow factory produces yellow resource and requires 1 red resource;
 Blue factory requires 1 red and 1 yellow resources  to produce 1 blue resource;
