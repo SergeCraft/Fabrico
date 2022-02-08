@@ -12,7 +12,7 @@ Blue factory requires 1 red and 1 yellow resources  to produce 1 blue resource;
 It also not producing resource if required resouces on input storage isn't enough or
 output storage is full.
 Player can collect resources from output storage to his backpack (limited size) and 
-drop them to input storage of factory if he is in storage interaction area.
+drop them to input storage of factory if he is inside storage interaction area.
 
 Key features:
 * There is three types of factories, but may be extended via config class
